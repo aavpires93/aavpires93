@@ -73,7 +73,7 @@ Construir produtos e soluções que conectem tecnologia, dados e pessoas.
 | --- | --- | --- |
 | [CapSendFlow](https://github.com/aavpires93/CAPSENDFLOW) | Envio de vídeo 4K de celular para editores em tempo real, sem interromper a gravação | Python · FastAPI |
 | [whatsapp-travel-agency-bot](https://github.com/aavpires93/Whatsapp-travel-agency-bot) | Bot de qualificação de leads via WhatsApp para agências de viagens, com reconexão automática de sessão | Python · Selenium |
-| [nome-do-projeto](https://github.com/aavpires93) | Uma linha sobre a tarefa que ele automatiza | Python · Excel |
+
 
 ---
 
