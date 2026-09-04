@@ -71,18 +71,31 @@ Construir produtos e soluções que conectem tecnologia, dados e pessoas.
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [CapSendFlow](https://github.com/aavpires93/CAPSENDFLOW) | Envio de vídeo 4K de celular para editores em tempo real, sem interromper a gravação | Python · FastAPI |
+| [nome-do-projeto](https://github.com/aavpires93) | Uma linha sobre o problema de negócio que ele resolve | Python · Pandas |
+| [nome-do-projeto](https://github.com/aavpires93) | Uma linha sobre o dado que ele explora | SQL · Power BI |
+| [nome-do-projeto](https://github.com/aavpires93) | Uma linha sobre a tarefa que ele automatiza | Python · Excel |
 
 ---
 
-### 📊 Estatísticas
+### 💪 Habilidades
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-fast.vercel.app/api?username=aavpires93&show_icons=true&theme=dark&bg_color=000000&title_color=ff8c00&text_color=c6c6cc&icon_color=a44bbd&hide_border=true&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Tecnologias mais usadas" height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aavpires93&theme=dark&bg_color=000000&title_color=ff8c00&text_color=c6c6cc&hide_border=true&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+**Dados & BI**
+![Python](https://img.shields.io/badge/Python-intermediário-ff8c00?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-intermediário-ff8c00?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-intermediário-ff8c00?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-avançado-ff8c00?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-<br clear="all"/>
+**Produto & Negócios**
+![Gestão de Produtos](https://img.shields.io/badge/Gestão_de_Produtos-em_especialização-a44bbd?style=flat-square)
+![CRM](https://img.shields.io/badge/CRM-experiência_prática-a44bbd?style=flat-square&logo=salesforce&logoColor=white)
+![Análise de Crédito](https://img.shields.io/badge/Análise_de_Crédito-experiência_prática-a44bbd?style=flat-square)
+
+**Ferramentas**
+![Git](https://img.shields.io/badge/Git-em_uso-004dff?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-em_uso-004dff?style=flat-square&logo=fastapi&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-em_uso-004dff?style=flat-square&logo=jira&logoColor=white)
+
+> Níveis autoavaliados com base em projetos práticos (veja a seção de Projetos em destaque acima), não em contagem de commits públicos.
 
 ---
 
