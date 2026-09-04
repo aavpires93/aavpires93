@@ -71,9 +71,7 @@ Construir produtos e soluções que conectem tecnologia, dados e pessoas.
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [nome-do-projeto](https://github.com/aavpires93) | Uma linha sobre o problema de negócio que ele resolve | Python · Pandas |
-| [nome-do-projeto](https://github.com/aavpires93) | Uma linha sobre o dado que ele explora | SQL · Power BI |
-| [nome-do-projeto](https://github.com/aavpires93) | Uma linha sobre a tarefa que ele automatiza | Python · Excel |
+| [CapSendFlow](https://github.com/aavpires93/CAPSENDFLOW) | Envio de vídeo 4K de celular para editores em tempo real, sem interromper a gravação | Python · FastAPI |
 
 ---
 
