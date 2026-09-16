@@ -1,18 +1,31 @@
 # 👋 Anderson Vieira Pires
 
-### Dados • Power BI • Estratégia • Tecnologia aplicada a negócios
+### Dados • Power BI • Estratégia • Desenvolvimento • Tecnologia aplicada a negócios
 
 Sou formado em **Administração**, com experiência no **mercado financeiro e atendimento a empresas**, atuando com crédito, risco, gestão de carteira, indicadores e produtos financeiros.
 
-Atualmente direciono minha carreira para **Dados, Inteligência de Negócios, Estratégia e Produtos**, combinando conhecimento de negócio com **Power BI, DAX, SQL, Python, Excel, automação e CRM**.
+Atualmente desenvolvo projetos que conectam **Dados, Inteligência de Negócios, Estratégia, Produtos e Desenvolvimento**, combinando conhecimento de negócio com **Power BI, DAX, SQL, Python, React, TypeScript, Excel, automação e CRM**.
 
-Gosto de transformar perguntas de negócio em análises objetivas: entender o problema, estruturar os dados, construir indicadores e gerar informação que apoie decisões.
+Gosto de transformar problemas reais em soluções: entender a necessidade, estruturar dados ou processos, desenvolver a solução e colocá-la em funcionamento.
 
 ---
 
-## 📊 Projeto mais recente
+## 🚀 Projetos em destaque
 
-### Estratégia e Antecipação de Recebíveis
+### 🌿 Landing Page — Nutricionista Silvia Alves
+Landing page profissional desenvolvida para uma nutricionista, partindo do conceito visual até a implementação e publicação em domínio próprio.
+
+O projeto foi construído com foco em **experiência do usuário, responsividade, apresentação profissional dos serviços e conversão de visitantes em contatos pelo WhatsApp**.
+
+**Tecnologias:** React · TypeScript · Vite · Tailwind CSS · HTML · CSS · Git/GitHub
+
+**Entrega:** desenvolvimento front-end · design responsivo · integração com WhatsApp · build de produção · hospedagem Hostinger · domínio próprio
+
+🌐 [Ver site em produção](https://silviaalvesnutricionista.com.br/)
+
+🔗 [Ver repositório](https://github.com/aavpires93/landingpage)
+
+### 📊 Estratégia e Antecipação de Recebíveis
 
 Projeto de portfólio desenvolvido em **Power BI** para simular a atuação de uma área de estratégia e dados responsável por uma carteira de grandes empresas.
 
@@ -34,7 +47,7 @@ O painel foi estruturado em três frentes:
 
 ---
 
-## 🚀 Outros projetos
+## 🧩 Outros projetos
 
 ### 🛍️ Niu Modas
 Sistema desktop para cadastro e gestão de clientes, desenvolvido para aplicar programação a um cenário real de negócio.
@@ -73,15 +86,19 @@ Projeto educacional de automação para qualificação de potenciais clientes de
 
 `Power BI` · `DAX` · `Power Query` · `SQL` · `Python` · `Excel` · `Modelagem de Dados` · `Indicadores`
 
+### Desenvolvimento
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+`React` · `TypeScript` · `Vite` · `HTML` · `CSS` · `APIs` · `Automação`
+
 ### Negócios e estratégia
 
 `Crédito e Risco` · `Gestão de Carteira PJ` · `Produtos Financeiros` · `CRM` · `Experiência do Cliente` · `NPS` · `Análise de Indicadores` · `Gestão de Produtos`
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Salesforce](https://img.shields.io/badge/CRM-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ---
 
@@ -89,35 +106,26 @@ Projeto educacional de automação para qualificação de potenciais clientes de
 
 Minha experiência profissional foi construída principalmente no **mercado financeiro**, trabalhando com empresas e análise de carteiras.
 
-Entre os temas com os quais tenho experiência estão:
+Entre os temas com os quais tenho experiência estão análise de crédito e risco, indicadores de carteira, demonstrações financeiras, produtos financeiros, relacionamento com clientes PJ, CRM, oportunidades comerciais, experiência do cliente e NPS.
 
-- análise de crédito e risco;
-- acompanhamento de indicadores de carteira;
-- análise de demonstrações financeiras;
-- produtos de crédito e serviços financeiros;
-- gestão e relacionamento com clientes PJ;
-- CRM e acompanhamento de oportunidades;
-- análise de dados para apoio à decisão;
-- experiência do cliente e NPS.
-
-Essa combinação me permite analisar dados não apenas pelo número, mas também pelo **contexto de negócio que existe por trás dele**.
+Essa combinação me permite desenvolver soluções considerando não apenas a tecnologia ou o número, mas também **o contexto de negócio por trás do problema**.
 
 ---
 
 ## 📚 Em desenvolvimento contínuo
 
-Atualmente aprofundo meus conhecimentos em **Gestão de Produtos, Power BI, DAX, SQL, Python, automação, APIs, computação em nuvem e Inteligência Artificial aplicada a negócios**.
+Atualmente aprofundo meus conhecimentos em **Gestão de Produtos, Power BI, DAX, SQL, Python, desenvolvimento, automação, APIs, computação em nuvem e Inteligência Artificial aplicada a negócios**.
 
 Meu objetivo é continuar construindo projetos que demonstrem a conexão entre:
 
 ```text
 PROBLEMA DE NEGÓCIO
         ↓
-      DADOS
+ DADOS / TECNOLOGIA
         ↓
      ANÁLISE
         ↓
-    ESTRATÉGIA
+     SOLUÇÃO
         ↓
       AÇÃO
 ```
@@ -133,5 +141,5 @@ Para oportunidades profissionais, projetos e conexões:
 ---
 
 <p align="center">
-  <strong>Transformando problemas de negócio em análises, dados e soluções.</strong>
+  <strong>Transformando problemas de negócio em dados, análises e soluções digitais.</strong>
 </p>
